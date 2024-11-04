@@ -11,9 +11,4 @@
 
 This project is ideal for developers looking to integrate graph databases with open-source LLMs and embedders for improved contextual responses and dynamic information retrieval.
 
-## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/arindamkhaled/GraphRAG-OpenSource.git
-   cd GraphRAG-OpenSource
