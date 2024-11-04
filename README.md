@@ -15,5 +15,5 @@ This project is ideal for developers looking to integrate graph databases with o
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/GraphRAG-OpenSource.git
+   git clone https://github.com/arindamkhaled/GraphRAG-OpenSource.git
    cd GraphRAG-OpenSource
