@@ -6,7 +6,6 @@
 
 - **Graph-based RAG**: Uses Neo4j for structured data representation and relationship-driven retrieval.
 - **Open-Source LLMs**: Supports lightweight LLMs suited for diverse deployment environments.
-- **Open-Source Embeddings**: Demonstrates how to integrate an open-source embedder to enhance semantic search and retrieval quality.
 - **Function Calling with BAML**: Allows advanced handling of model responses and enriched functionality.
 
 This project is ideal for developers looking to integrate graph databases with open-source LLMs and embedders for improved contextual responses and dynamic information retrieval.
