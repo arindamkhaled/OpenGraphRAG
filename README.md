@@ -10,4 +10,4 @@
 
 This project is ideal for developers looking to integrate graph databases with open-source LLMs and embedders for improved contextual responses and dynamic information retrieval.
 
-
+Here is an article explaining the purpose of the repo: https://medium.com/@khaledarindam/implementing-graphrag-with-smaller-open-source-llms-a-practical-guide-501a62864c15"
